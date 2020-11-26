@@ -1,0 +1,14 @@
+According to International Diabetes Federation (IDF), India has 62.4 million 
+people with diabetes and by 2030 it is predicted that the number will rise to 
+100 million. Studies claim that there are around 410 experimentally proven 
+Indian medicinal plants which have anti-diabetic activity, of which the 
+mechanism of action of 109 plants has been elucidated or reported. So, the need 
+of the hour is to explore the claims of Indian medicinal flora and open up the 
+facets of many Indian plants which are being examined for their beneficial role 
+in diabetes. So, we created a database (InDiaMed) of Indian medicinal plants 
+that captures their role in anti-diabetic activity. InDiaMed's features include 
+chemical, pharmacological, biochemical and geographical information of the 
+medicinal plant, scientifically relevant information of the plant, and the 
+coherent research done on it in the field of diabetes. The database also 
+includes the list of poly-herbal formulations which are used for treatment of 
+diabetes in India.

@@ -1,0 +1,13 @@
+A novel human coronavirus, severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2), was identified in China in December 2019. There is 
+limited support for many of its key epidemiologic features, including the 
+incubation period for clinical disease (coronavirus disease 2019 [COVID-19]), 
+which has important implications for surveillance and control activities.
+OBJECTIVE: To estimate the length of the incubation period of COVID-19 and 
+describe its public health implications.
+DESIGN: Pooled analysis of confirmed COVID-19 cases reported between 4 January 
+2020 and 24 February 2020.
+SETTING: News reports and press releases from 50 provinces, regions, and 
+countries outside Wuhan, Hubei province, China.
+PARTICIPANTS: Persons with confirmed SARS-CoV-2 infection outside Hubei 
+province, China

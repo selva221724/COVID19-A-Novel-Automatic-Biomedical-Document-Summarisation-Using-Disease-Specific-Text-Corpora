@@ -1,0 +1,285 @@
+In early December 2019, an outbreak of coronavirus disease 2019 (COVID-19), 
+caused by a novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), 
+occurred in Wuhan City, Hubei Province, China. On January 30, 2020 the World 
+Health Organization declared the outbreak as a Public Health Emergency of 
+International Concern. As of February 14, 2020, 49,053 laboratory-confirmed and 
+1,381 deaths have been reported globally. Perceived risk of acquiring disease 
+has led many governments to institute a variety of control measures. We 
+conducted a literature review of publicly available information to summarize 
+knowledge about the pathogen and the current epidemic. In this literature 
+review, the causative agent, pathogenesis and immune responses, epidemiology, 
+diagnosis, treatment and management of the disease, control and preventions 
+strategies are all reviewed. As of 12 February 2020, WHO reported 45,171 cases and 1115 deaths related to COVID-19.COVID-19 is similar to Severe Acute Respiratory Syndrome coronavirus (SARS-CoV) virus in its pathogenicity, clinical spectrum, and epidemiology. Comparison of the genome sequences of COVID-19, SARS-CoV, and Middle East Respiratory Syndrome coronavirus (MERS-CoV) showed that COVID-19 has  better sequence identity with SARS-CoV compared to MERS CoV. However, the amino acid sequence of COVID-19 differs from other coronaviruses specifically in the regions of 1ab polyprotein and surface glycoprotein or S-protein. Although several animals have been speculated to be a reservoir for COVID-19, no animal reservoir has been already confirmed. COVID-19 causes COVID-19 disease that has 
+similar symptoms as SARS-CoV. Studies suggest that the human receptor for 
+COVID-19 may be angiotensin-converting enzyme 2 (ACE2) receptor similar to that 
+of SARS-CoV. The nucleocapsid (N) protein of COVID-19 has nearly 90% amino acid 
+sequence identity with SARS-CoV. The N protein antibodies of SARS-CoV may cross 
+react with COVID-19 but may not provide cross-immunity. In a similar fashion to 
+SARS-CoV, the N protein of COVID-19 may play an important role in suppressing 
+the RNA interference (RNAi) to overcome the host defense. The virus originated in bats and was transmitted to humans through yet unknown intermediary animals in Wuhan, Hubei province, China in December 2019.The disease is transmitted by inhalation or contact with infected droplets and the incubation period ranges from 2 to 14 d. The symptoms are usually fever, cough, sore throat, breathlessness, fatigue, malaise among others. The disease is mild in most people; in some (usually the elderly and those with comorbidities), it may progress to pneumonia, acute respiratory distress syndrome (ARDS) and multi organ dysfunction. Many people are asymptomatic. The case fatality rate is estimated to range from 2 to 3%. Diagnosis is by demonstration of the virus in respiratory secretions by special molecular tests. Common laboratory findings include normal/ low white cell 
+counts with elevated C-reactive protein (CRP). The computerized tomographic 
+chest scan is usually abnormal even in those with no symptoms or mild disease. 
+Treatment is essentially supportive; role of antiviral agents is yet to be 
+established. Prevention entails home isolation of suspected cases and those with 
+mild illnesses and strict infection control measures at hospitals that include 
+contact and droplet precautions. The virus spreads faster than its two ancestors 
+the SARS-CoV and Middle East respiratory syndrome coronavirus (MERS-CoV), but 
+has lower fatality. Coronaviruses are not always confined to the respiratory tract, and 
+under certain conditions they can invade the central nervous system and cause 
+neurological pathologies. The potential for neuroinvasion is well documented in 
+most human coronaviruses (OC-43, 229E, MERS and SARS) and in some animal 
+coronaviruses (porcine haemagglutinating encephalomyelitis coronavirus). 
+Neurological symptoms have been reported in patients affected by COVID-19, such 
+as headache, dizziness, myalgia and anosmia, as well as cases of encephalopathy, 
+encephalitis, necrotising haemorrhagic encephalopathy, stroke, epileptic 
+seizures, rhabdomyolysis and Guillain-Barre syndrome, associated with SARS-CoV-2 
+infection.The SARS-CoV-2 causes a clinical syndrome designated coronavirus disease 2019 (COVID19) with a spectrum of manifestations ranging from mild upper respiratory tract infection to severe pneumonitis, acute respiratory distress syndrome (ARDS) and death. Few cases have been observed in children and adolescents who seem to have a more favorable clinical course than other age groups, and even fewer in newborn babies. 
+Prior to the global outbreak of SARS-CoV in 2003, HCoV-229E and HCoV-OC43 were 
+the only coronaviruses known to infect humans. 5 additional coronaviruses have been discovered in humans.In this review, the epidemiology, pathophysiology, and management of the recently discovered COVID-19 are 
+reviewed, with a focus on best practices and the public health implications.
+Person-to-person transmission of COVID-19 infection led to the isolation of patients that were subsequently administered a variety of treatments. Extensive measures to reduce 
+person-to-person transmission of COVID-19 have been implemented to control the 
+current outbreak. Special attention and efforts to protect or reduce 
+transmission should be applied in susceptible populations including children, 
+health care providers, and elderly people. In this review, we highlights the 
+symptoms, epidemiology, transmission, pathogenesis, phylogenetic analysis and 
+future directions to control the spread of this fatal disease. In March 2020 the World Health Organization declared the 
+SARS-Cov-2 virus a global pandemic. We performed a narrative review to describe 
+existing literature with regard to Corona Virus Disease 2019 (COVID-19) 
+epidemiology, pathophysiology, diagnosis, management and future perspective. 
+MEDLINE, EMBASE and Scopus databases were searched for relevant articles. 
+Although only when the pandemic ends it will be possible to assess the full 
+health, social and economic impact of this global disaster,In particular, we focus on 
+public health impact, pathophysiology and clinical manifestations, diagnosis, 
+case management, emergency response and preparedness.Before the severe acute respiratory syndrome outbreak in 2003, coronaviruses 
+(CoVs) were not considered to be highly pathogenic to humans.  In addition, in 2012, another new CoV responsible for the Middle East respiratory syndrome was identified. 
+Both infections were considered a threat to global health security. At present, 
+the third epidemic caused by a CoV is being faced. This new CoV, called 
+2019-nCoV, was originated in the city of Wuhan, China, and has been linked to 
+severe respiratory infections in human.In this review, the important aspects of this new coronavirus, 2019-nCoV, and its disease, COVID-19, have been summarized with the information available up to February 2020.Last decade witnessed the outbreak of many life-threatening human pathogens 
+including Nipah, Ebola, Chikungunya, Zika, Middle East respiratory syndrome 
+coronavirus (MERS-CoV), Severe Acute respiratory syndrome coronavirus (SARS-CoV) 
+and more recently novel coronavirus (2019-nCoV or SARS-CoV-2). The continuing emergence of coronaviruses at regular intervals poses a significant threat to human health and economy. Ironically, even after a decade of research on coronavirus, still there are no licensed vaccines or therapeutic agents to treat coronavirus infection which highlights an urgent need to develop effective vaccines or post-exposure prophylaxis to prevent future epidemics. Several clinical, genetic and epidemiological features of COVID-19 resemble 
+SARS-CoV infection. Hence, the research advancements on SARS-CoV treatment might 
+help scientific community in quick understanding of this virus pathogenesis and 
+develop effective therapeutic/prophylactic agents to treat and prevent this 
+infection. Monoclonal antibodies represent the major class of biotherapeutics 
+for passive immunotherapy to fight against viral infection. The therapeutic 
+potential of monoclonal antibodies has been well recognized in the treatment of 
+many diseases. Here, we summarize the potential monoclonal antibody based 
+therapeutic intervention for COVID-19 by considering the existing knowledge on 
+the neutralizing monoclonal antibodies against similar coronaviruses SARS-CoV 
+and MERS-CoV. Further research on COVID-19 pathogenesis could identify 
+appropriate therapeutic targets to develop specific anti-virals against this 
+newly emerging pathogen.Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a new strain that was discovered in 2019 and has not been previously identified in humans. On 
+December 31st 2019 World Health Organization (WHO) was informed of a cluster of 
+cases with pneumonia of unknown origin from Wuhan City, Hubei province of China. 
+The WHO announced in February 2020 that COVID-19 is the official name of the 
+coronavirus diseases. Due to increasing number of infected people across the continents and huge loss to human life, the WHO has declared the novel COVID-19 outbreak a pandemic. A 
+pandemic is defined as the "worldwide spread" of a new disease. Currently, no 
+COVID-19 specific treatments have been approved by the United States Food and 
+Drug Administration (US-FDA). However, the current treatment options include 
+hydroxychloroquine, tocilizumab, remdesivir, lopinavir-ritonavir (Kaletra®), and 
+nitazoxanide. In recent past, some natural herbal compounds have demonstrated 
+encouraging anti-viral properties. This article attempted to summarize available 
+information on the reported anti-viral activity of some natural products.Coronavirus disease 2019 (COVID-19), which causes serious respiratory illness 
+such as pneumonia and lung failure, was first reported in Wuhan, the capital of 
+Hubei, China. Within a few months of the first report, SARS-CoV-2 had spread across China and worldwide, reaching a pandemic level. As COVID-19 has triggered enormous human casualties and serious economic loss posing global threat, an understanding of the ongoing situation and the development of strategies to contain the virus's spread are urgently needed.Currently, various diagnostic kits to test for COVID-19 are available and 
+several repurposing therapeutics for COVID-19 have shown to be clinically 
+effective.COVID-19 is caused by a betacoronavirus named SARS-CoV-2 that affects the lower respiratory tract and manifests as pneumonia in humans. Despite rigorous global containment and quarantine efforts, the incidence of COVID-19 continues to rise, with 90,870 
+laboratory-confirmed cases and over 3,000 deaths worldwide. Coronaviruses cause illness ranging in severity from 
+the common cold to severe respiratory illness and death. Currently the primary 
+epidemiologic risk factors for coronavirus disease 2019 include travel from 
+mainland China (especially Hubei Province) or close contact with infected 
+individuals within 14 days of symptom onset. Data suggest an incubation period 
+of ∼5 days (range, 2-14 days). Average age of hospitalized patients has been 
+49-56 years, with a third to half with an underlying illness. Children have been 
+rarely reported. Men were more frequent among hospitalized cases (54-73%). 
+Frequent manifestations include fever, cough, myalgia, headache, and diarrhea. 
+Abnormal testing includes abnormalities on chest radiographic imaging, 
+lymphopenia, leukopenia, and thrombocytopenia. Initial reports suggest that 
+acute respiratory distress syndrome develops in 17-29% of hospitalized patients. 
+Overall case fatality rate appears to be ∼1%; however, early data may 
+overestimate this rate. In 2 reports describing 18 pregnancies with coronavirus 
+disease 2019, all were infected in the third trimester, and clinical findings 
+were similar to those in nonpregnant adults. Fetal distress and preterm delivery 
+were seen in some cases. All but 2 pregnancies were cesarean deliveries and no 
+evidence of in utero transmission was seen. Data on severe acute respiratory 
+syndrome and Middle East respiratory syndrome in pregnancy are sparse. For 
+severe acute respiratory syndrome, the largest series of 12 pregnancies had a 
+case-fatality rate of 25%. Complications included acute respiratory distress 
+syndrome in 4, disseminated intravascular coagulopathy in 3, renal failure in 3, 
+secondary bacterial pneumonia in 2, and sepsis in 2 patients. Mechanical 
+ventilation was 3 times more likely among pregnant compared with nonpregnant 
+women. Among 7 first-trimester infections, 4 ended in spontaneous abortion. Four 
+of 5 women with severe acute respiratory syndrome after 24 weeks' gestation 
+delivered preterm. For Middle East respiratory syndrome, there were 13 case 
+reports in pregnant women, of which 2 were asymptomatic, identified as part of a 
+contact investigation; 3 patients (23%) died. Two pregnancies ended in fetal 
+demise and 2 were born preterm. No evidence of in utero transmission was seen in 
+severe acute respiratory syndrome or Middle East respiratory syndrome. Currently 
+no coronavirus-specific treatments have been approved by the US Food and Drug 
+Administration. Because coronavirus disease 2019 might increase the risk for 
+pregnancy complications, management should optimally be in a health care 
+facility with close maternal and fetal monitoring. Principles of management of 
+coronavirus disease 2019 in pregnancy include early isolation, aggressive 
+infection control procedures, oxygen therapy, avoidance of fluid overload, 
+consideration of empiric antibiotics (secondary to bacterial infection risk), 
+laboratory testing for the virus and coinfection, fetal and uterine contraction 
+monitoring, early mechanical ventilation for progressive respiratory failure, 
+individualized delivery planning, and a team-based approach with multispecialty 
+consultations.The initial source of the 2019 novel coronavirus (2019-nCoV) was the Huanan seafood market in Wuhan, Hubei province, China, with pangolins as a potential animal host. Currently the main source of infection is NCP patients, and asymptomatic carriers may also be infectious. The virus is believed transmitted mostly via droplets or contact. People are all generally susceptible to the virus. The average incubation period was 5.2 days, 
+and the basic reproductive number R(0) was 2.2 at the onset of the outbreak. 
+Most NCP patients were clinically mild cases. The case fatality rate was 2.38%, 
+and elderly men with underlying diseases were at a higher risk of death. 
+Strategies for prevention and control of NCP include improving epidemic 
+surveillance, quarantining the source of infection, speeding up the diagnosis of 
+suspected cases, optimizing the management of close contacts, tightening 
+prevention and control of cluster outbreaks and hospital infection, preventing 
+possible rebound of the epidemic after people return to work from the Chinese 
+Spring Festival holiday, and strengthening community prevention and control. This is the third epidemic caused by a coronavirus after those of severe acute respiratory syndrome (SARS) in 2003 and Middle East respiratory syndrome (MERS) started in 2012. COVID-19 has rapidly spread to China and is currently spreading all over the world. The infection mainly affects patients over 40 years of age and mortality is increased in the presence of 
+comorbidities. Children are pauci- or asymptomatic. The diagnosis is most often 
+based on the detection of the viral genome in the nasopharynx by molecular 
+biology methods. In the absence of specific anti-viral molecules, treatment is 
+currently mainly symptomatic. It is clear that the COVID-19 pandemic is more 
+difficult to control than what the first data suggested. The key strategy to 
+SARS-CoV-2 is to limit its transmission. Preventive measures are mainly based on 
+the application of adequate hand hygiene measures and disinfection of the 
+environment, as well as measures of social distance aimed at limiting contacts 
+in the population and protecting populations at risk.To estimate the length of the incubation period of COVID-19 and describe its public health implications.
+DPooled analysis of confirmed COVID-19 cases reported between 4 January 
+2020 and 24 February 2020. News reports and press releases from 50 provinces, regions, and 
+countries outside Wuhan, Hubei province, China.PARTICIPANTS: Persons with confirmed SARS-CoV-2 infection outside Hubei province, China  As of February 26, 2020, COVID-19 has been recognized in 34 countries, with a total of 80,239 laboratory-confirmed cases and 2,700 deaths. Infection control measures are necessary to prevent the virus from further spreading and to help control the epidemic situation. Due to the characteristics of dental settings, the risk of cross infection can be high between patients and dental practitioners. For dental practices and hospitals in 
+areas that are (potentially) affected with COVID-19, strict and effective 
+infection control protocols are urgently needed. Coronavirus disease 2019 (COVID-19) originated in the city of Wuhan, Hubei Province, Central China, and has spread quickly to 72 countries to date.  At present, the newly identified SARS-CoV-2 has caused a large number of deaths with tens of thousands of confirmed cases worldwide, posing a serious threat to public health. However, there are no clinically approved vaccines or specific therapeutic drugs available for COVID-19. Intensive research on the newly emerged SARS-CoV-2 is urgently needed to elucidate the pathogenic mechanisms and epidemiological characteristics and to identify potential drug targets, which will contribute to the development of effective prevention and treatment strategies. Hence, this review will focus on recent progress regarding the structure of SARS-CoV-2 and the characteristics of 
+COVID-19, such as the aetiology, pathogenesis and epidemiological 
+characteristics.The SARS-CoV-2 virus emerged in December 2019 and then spread rapidly worldwide, particularly to China, Japan, and South Korea. Scientists are endeavoring to 
+find antivirals specific to the virus. Several drugs such as chloroquine, 
+arbidol, remdesivir, and favipiravir are currently undergoing clinical studies 
+to test their efficacy and safety in the treatment of coronavirus disease 2019 
+(COVID-19) in China;In December 2019, pneumonia of unknown cause occurred in Wuhan, Hubei Province, China. On 7 January 2020, a novel coronavirus, named as severe acute respiratory 
+syndrome coronavirus-2 (SARS-CoV-2), was identified in the throat swab sample of 
+one patient.  Currently, COVID-19 has spread widely around the world, affecting more than seventy countries. China, with a huge burden of this disease, has taken strong measures to control the spread and improve the curative rate of COVID-19. In this review, we 
+summarized the epidemiological characteristics, clinical features, diagnosis, 
+treatment, and prognosis of COVID-19.This article aims at collecting all information needed for dentists regarding the COVID-19. The pathogen was classified as 2019 Novel Corona Virus (2019-nCoV), and the disease was named COrona VIrus Disease 2019 (COVID-19). Given that COVID-19 has lately been detected in infected patients' saliva, the COVID-19 outbreak is an alert that all dental and other health professionals must be vigilant in defending against the infectious disease spread, and it may enable to assess whether non-invasive saliva 
+diagnostic for COVID-19. There has so far been no evidence from randomized 
+controlled trials to prescribe any particular anti-nCoV treatment or vaccine, 
+and COVID-19 management has been widely supportive. Since the ACE-2 was 
+expressing on oral cavity mucosa, there is a potentially huge COVID-19 
+infectious vulnerability risk for oral cavity and brought up a proof for the 
+future prevention procedure in dental practice and daily life.This article will review the new knowledge of SARS-CoV-2 COVID-19 acute respiratory disease, and summarise its clinical features.Here we report our modelled homo-trimer structure of COVID-19 spike glycoprotein in both closed (ligand-free) and open (ligand-bound) conformation, which is involved in host cell adhesion. We also predict the unique N- and O-linked glycosylation sites of 
+spike glycoprotein that distinguish it from the SARS and underlines shielding 
+and camouflage of COVID-19 from the host the defence system. Furthermore, our 
+study also highlights the key finding that the S1 domain of COVID-19 spike 
+glycoprotein potentially interacts with the human CD26, a key immunoregulatory 
+factor for hijacking and virulence. These findings accentuate the unique 
+features of COVID-19 and assist in the development of new therapeutics.A novel coronavirus (severe acute respiratory syndrome coronavirus 2, SARS-CoV-2) causing a cluster of respiratory infections (coronavirus disease 2019, COVID-19) in Wuhan, China, was identified on 7 January 2020.Strengthened surveillance was implemented in France on 10 January 2020 in order to identify imported cases early and prevent secondary transmission. Three categories of risk exposure and follow-up procedure were defined for contacts. Three cases of 
+COVID-19 were confirmed on 24 January, the first cases in Europe. Contact 
+tracing was immediately initiated. Five contacts were evaluated as at low risk 
+of exposure and 18 at moderate/high risk. As at 12 February 2020, two cases have 
+been discharged and the third one remains symptomatic with a persistent cough, 
+and no secondary transmission has been identified. Effective collaboration 
+between all parties involved in the surveillance and response to emerging 
+threats is required to detect imported cases early and to implement adequate 
+control measures.Previous studies have reported epidemiological and clinical characteristics of coronavirus disease 2019 (COVID-19). The purpose of this brief review is to summarize those published studies as of late February 2020 on the clinical features, symptoms, complications, and treatments of COVID-19 and help provide guidance for 
+frontline medical staff in the clinical management of this outbreak.SARS-CoV-2 was first identified as an etiological pathogen of COVID-19, belonging to the species of severe acute respiratory syndrome-related coronaviruses (SARSr-CoV). The speed of both the geographical transmission and the sudden increase in numbers of cases is much faster than SARS and Middle East respiratory syndrome (MERS).The vaccine against COVID-19, regarded as an effective prophylactic strategy for control and prevention, is being developed in about 90 institutions worldwide. The experiences and lessons encountered in the previous SARS and MERS vaccine research can be used for reference in the development of COVID-19 vaccine. The present paper hopes to provide some insights for COVID-19 vaccines researchers.Under these unprecedented circumstances, there are no well-established guidelines for cancer patients.The risk for serious disease and death in COVID-19 cases increases with advancing age and presence of comorbid health conditions. (SARS-CoV-2), a fatal virus responsible for abysmal survival outcomes. To minimize the mortality rate, it becomes prudent to identify symptoms promptly and employ treatments appropriately.Managing cancer patients under these circumstances is rather challenging, given their vulnerable status and the aggressive nature of their underlying disease.  we discuss the impact of COVID-19 on health and the immune system of those affected, reviewing the latest treatment approaches 
+and ongoing clinical trials. Additionally, we discuss challenges faced while 
+treating cancer patients and propose potential approaches to manage this 
+vulnerable population during this pandemic.62 medical staff of Zhongnan Hospital in Wuhan, China have been hospitalised with coronavirus disease 2019. During the post-discharge surveillance after clinical recovery, swabs were positive in two asymptomatic cases (3.23%). Case 1 had presented typical clinical and radiological manifestations on admission, while manifestation in Case 2 was very mild. In conclusion, a small proportion of recovered patients may test positive after discharge, and post-discharge surveillance and isolation need to be strengthened.All COVID-19 cases reported through February 11, 2020 were extracted from China's Infectious Disease Information System. Analyses included: 1) summary of patient characteristics; 2) examination of age distributions and sex ratios; 3) 
+calculation of case fatality and mortality rates; 4) geo-temporal analysis of 
+viral spread; 5) epidemiological curve construction; and 6) subgroup analysis. 
+Results: A total of 72 314 patient records-44 672 (61.8%) confirmed cases, 16 
+186 (22.4%) suspected cases, 10567 (14.6%) clinical diagnosed cases (Hubei 
+only), and 889 asymptomatic cases (1.2%)-contributed data for the analysis. 
+Among confirmed cases, most were aged 30-79 years (86.6%), diagnosed in Hubei 
+(74.7%), and considered mild/mild pneumonia (80.9%). A total of 1 023 deaths 
+occurred among confirmed cases for an overall case-fatality rate of 2.3%. The 
+COVID-19 spread outward from Hubei sometime after December 2019 and by February 
+11, 2020, 1 386 counties across all 31 provinces were affected. The epidemic 
+curve of onset of symptoms peaked in January 23-26, then began to decline 
+leading up to February 11. A total of 1 716 health workers have become infected 
+and 5 have died (0.3%). Conclusions: The COVID-19 epidemic has spread very 
+quickly. It only took 30 days to expand from Hubei to the rest of Mainland 
+China. With many people returning from a long holiday, China needs to prepare 
+for the possible rebound of the epidemic. Viral RNA was extracted in throat swab and sputum sample of the patient and was performed real-time reverse transcription PCR detection and 
+obtained viral genome by high-throughput sequencing method. Phylogenetic 
+analysis was conducted using 29 2019-nCoV genomes and 30 β-coronavirus genomes 
+deposited in NCBI GenBank. Fifteen genomes from Wuhan were grouped by mutation 
+sites and others were identified by Wuhan's or specific mutation sites.
+A 29 833 bp length genome of the first 2019-nCoV strain in Hangzhou was 
+obtained, covering full length of the coding regions of coronavirus. 
+Phylogenetic analysis showed that the genome was closest to the genome of a bat 
+SARS-like coronavirus strain RaTG13 with an identity of 96.11% (28 666/29 826). 
+Among the genes between two genomes, E genes were highly conserved (99.56%), 
+while S genes had lowest identity (92.87%). The genome sequence similarities 
+among 29 strains from China (Hangzhou, Wuhan, and Shenzhen), Japan, USA, and 
+Finland, were all more than 99.9%; however, some single nucleotide polymorphisms 
+were identified in some strains. Conclusion: The genome of Hangzhou 2019-nCoV 
+strain was very close to the genomes of strains from other cities in China and 
+overseas collected at early epidemic phase. The 2019-nCoV genome sequencing 
+method used in this paper provides an useful tool for monitoring variation of 
+viral genes.SARS-CoV-2 infection causes clusters of severe respiratory illness similar to 
+severe acute respiratory syndrome coronavirus. Human-to-human transmission via 
+droplets, contaminated hands or surfaces has been described, with incubation 
+times of 2-14 days. Early diagnosis, quarantine, and supportive treatments are 
+essential to cure patients. This paper reviews the literature on all available 
+information about the epidemiology, diagnosis, isolation and treatments of 
+COVID-19. Treatments, including antiviral agents, chloroquine and 
+hydroxychloroquine, corticosteroids, antibodies, convalescent plasma transfusion 
+and vaccines, are discussed in this article. In addition, registered trials 
+investigating treatment options for COVID-19 infection are listed.This paper concerns study of the genome of the Wuhan Seafood Market isolate believed to represent the causative agent of the disease COVID-19. This is to find a short section or sections of viral protein sequence suitable for preliminary design proposal for a peptide synthetic vaccine and a peptidomimetic therapeutic, and to explore some design possibilities. The project was 
+originally directed towards a use case for the Q-UEL language and its implementation in a knowledge management and automated inference system for medicine called the BioIngine, but focus here remains mostly on the virus itself. However, using Q-UEL systems to access relevant and emerging literature, and to interact with standard publically available bioinformatics tools on the Internet, did help quickly identify sequences of amino acids that are well conserved across many coronaviruses including 2019-nCoV. KRSFIEDLLFNKV was found to be particularly well conserved in this study and corresponds to the region 
+around one of the known cleavage sites of the SARS virus that are believed to be 
+required for virus activation for cell entry. This sequence motif and surrounding variations formed the basis for proposing a specific synthetic vaccine epitope and peptidomimetic agent. The work can, nonetheless, be described in traditional bioinformatics terms, and readily reproduced by others, albeit with the caveat that new data and research into 2019-nCoV is emerging and evolving at an explosive pace. Preliminary studies using molecular modeling and docking, and in that context the potential value of certain known herbal extracts, are also described.Five of seven human coronavirus was isolated in this century. Unfortunately, last three of them entered our life with a fear of outbreak, pandemic or death. Last human coronavirus which emerged world from Wuhan China, Initial reports showed that, its origin was bats. It transmitted human to human by droplet and contact routes, but some doubt about airborne, fecal or intrauterine transmission also should be removed. Its R0 value is 2.3 but it could be as high as 5.7. Its case fatality rate was 6.3, but it was different in different ages and counties, and it could be over 15%. According to early models total 10–12 weeks is required to control an outbreak 
+in the community. While different countries show different daily case numbers, 
+total number of case, case mortality rates or R0, it seems they show a similar 
+epidemic curve. Every day we learn new data about the current outbreak. Since 
+the outbreak is not over yet, every detail should be evaluated carefully and the 
+updates should be followed closely to monitor the epidemiological properties of 
+COVID-19.At the present, there is no single specific vaccine or efficient antiviral therapy against COVID-19. Recently, we showed that intravenous immunoglobulin (IVIg) treatment reduces inflammation of intestinal epithelial cells and eliminates overgrowth of the opportunistic human fungal pathogen Candida albicans in the murine gut. Immunotherapy with IVIg could be employed to neutralize COVID-19. However, the efficacy of IVIg would be 
+better if the immune IgG antibodies were collected from patients who have 
+recovered from COVID-19 in the same city, or the surrounding area, in order to 
+increase the chance of neutralizing the virus. These immune IgG antibodies will 
+be specific against COVID-19 by boosting the immune response in newly infected 
+patients. Different procedures may be used to remove or inactivate any possible 
+pathogens from the plasma of recovered coronavirus patient derived immune IgG, 
+including solvent/detergent, 60 °C heat-treatment, and nanofiltration. Overall, 
+immunotherapy with immune IgG antibodies combined with antiviral drugs may be an 
+alternative treatment against COVID-19 until stronger options such as vaccines 
+are available.With the spread of COVID-19, the routine clinical diagnosis and treatment for lung cancer patients has been disturbed. Due to the systemic immunosuppressive of lung cancer patients caused by the malignancy and anticancer treatments, lung cancer 
+patients are more susceptible to infection than healthy individuals. Furthermore, patients with cancer had poorer prognosis from infection. Lung cancer patients should be the priority group for COVID-19 prevention. The protection provisions and control measures aiming to protect lung cancer patients from COVID-19 have been increasingly concerned. During the COVID-19 outbreak period, it should be carefully differentiated for fever and respiratory symptoms for lung cancer patients receiving anti-tumor treatment, in order to 
+evaluate the risk of COVID-19. Moreover, it is necessary to carry out meticulous 
+and individualized clinical management for lung cancer patients to effectively 
+protect the patients from COVID-19.Structural equation modeling (SEM) is a multivariate analysis method to determine the structural relationship between measured variables. This 
+observational study aimed to use SEM to determine the effects of social support 
+on sleep quality and function of medical staff who treated patients with 
+COVID-19 in January and February 2020 in Wuhan, China.A one-month cross-sectional observational study included 180 medical staff who treated patients with COVID-19 infection. Levels of anxiety, self-efficacy, stress, sleep quality, and social support were measured using the and the Self-Rating Anxiety Scale (SAS), the General Self-Efficacy Scale (GSES), the Stanford Acute Stress Reaction (SASR) questionnaire, the Pittsburgh Sleep 
+Quality Index (PSQI), and the Social Support Rate Scale (SSRS), respectively. 
+Pearson's correlation analysis and SEM identified the interactions between these 
+factors. RESULTS Levels of social support for medical staff were significantly 
+associated with self-efficacy and sleep quality and negatively associated with 
+the degree of anxiety and stress. Levels of anxiety were significantly 
+associated with the levels of stress, which negatively impacted self-efficacy 
+and sleep quality. Anxiety, stress, and self-efficacy were mediating variables 
+associated with social support and sleep quality.As of 0 am, March 2, 2020, the Republic of Korea had the second-largest number of confirmed cases (n = 4,212) after China (n = 80,026). This report summarizes the epidemiologic features and the snapshots of the outbreak in the Republic of Korea from January 19 and March 2, 2020.With a large number of COVID-19 patients discharging from hospital, some had showed re-fever and positive nucleic acid test after discharge from hospital. This might be due to the biological characteristics of 2019-nCoV, and might also be related to the basic disease, clinical status, glucocorticoid using, sample sampling, processing and detecting of patients, and some even related to the re-infection or secondary bacterial virus infection. Therefore, we suggest that in view of this phenomenon, further stratified management of discharge from 
+hospital should be carried out on the basis of guidelines, especially for patients with advanced age, underlying diseases or severe or critical pneumonia. For those patients who can't completely deoxygenate for a long time after hospitalization, individualized treatment methods and different discharge evaluation criteria should be adopted to ensure the complete cure of patients and prevent recurrencing after discharge from hospital.The ongoing coronavirus disease 2019 (COVID-19) outbreak, emerged in Wuhan, China in the end of 2019, has claimed more than 2600 lives as of 24 February 2020 and posed a huge threat to global public health. The Chinese government has implemented control measures including setting up special hospitals and travel restriction to mitigate the spread. We propose conceptual models for the COVID-19 outbreak in Wuhan with the consideration of individual behavioural reaction and governmental actions, e.g., holiday extension, travel restriction, 
+hospitalisation and quarantine. We employe the estimates of these two key components from the 1918 influenza pandemic in London, United Kingdom, incorporated zoonotic introductions and the emigration, and then compute future trends and the reporting ratio. The model is concise in structure, and it successfully captures the course of the COVID-19 outbreak, and thus sheds light on understanding the trends of the outbreak.The number of infected people is rapidly increasing, while the diagnostic method of COVID-19 is only by nucleic acid testing.To explain the epidemiological characteristics, clinical features, imaging manifestations and to judge diagnostic value of COVID-19 by analyzing the clinical data of COVID-19 suspected and confirmed patients in a non-outbreak, Shanghai, China. To clarify the early epidemiology and clinical characteristics about COVID-19.We report two cases of coronavirus disease 2019 (COVID-19) in travellers from Wuhan, China to Thailand. Both were independent introductions on separate flights, discovered with thermoscanners and confirmed with RT-PCR and genome sequencing. Both cases do not seem directly linked to the Huanan Seafood Market in Hubei but the viral genomes are identical to four other sequences from Wuhan, suggesting early spread within the city already in the first week of January.As with the original SARS-CoV epidemic of 2002/2003 and with seasonal influenza, geographic information systems and methods, including, among other application possibilities, online real-or near-real-time mapping of disease cases and of social media reactions to disease spread, predictive risk mapping using population travel data, and tracing and mapping super-spreader trajectories and contacts across space and time, are proving indispensable for timely and effective epidemic monitoring and response. This paper offers pointers to, and describes, a range of practical online/mobile GIS and mapping dashboards and applications for tracking the 2019/2020 coronavirus epidemic and associated events as they unfold around the world. Some of these dashboards and applications are receiving data updates in near-real-time (at the time of writing), and one of them is meant for individual users (in China) to check if the app user has had any close contact with a person confirmed or suspected to have been infected with SARS-CoV-2 in the recent past. We also discuss 
+additional ways GIS can support the fight against infectious disease outbreaks 
+and epidemics.Three leading infectious disease experts in China were invited to share their 
+bedside observations in the management of COVID-19 patients. Professor Taisheng 
+Li was sent to Wuhan to provide frontline medical care. He depicts the clinical 
+course of SARS-CoV-2 infection. Furthermore, he observes the significant abnormality of coagulation function and proposes that the early intravenous immunoglobulin and low molecular weight heparin anticoagulation therapy are very important.  Regarding the traditional Chinese medicine, Professor Lu suggests to develop a creative evaluation system because of the complicated chemical compositions. Professor Wenhong Zhang is responsible for Shanghai's overall clinical management of the COVID-19 cases. He introduces the team approach to manage COVID-19 patients. For severe or critically ill patients, in addition to the respiratory supportive treatment, timely multiorgan evaluation and treatment is very crucial. The medical decisions and interventions are carefully tailored to the unique 
+characteristics of each patient. it made sense to investigate the possible effect of chloroquine/hydroxychloroquine against SARS-CoV-2 since this molecule was previously described as a potent inhibitor of most coronaviruses, including SARS-CoV-1. Preliminary trials of chloroquine repurposing in the treatment of COVID-19 in China have been encouraging, leading to several new trials. Here we discuss the possible mechanisms of chloroquine interference with the SARS-CoV-2 replication cycle.Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the virus responsible for the aggressive coronavirus disease (COVID-19) pandemic. Recently, investigators have stipulated that COVID-19 patients receiving angiotensin-converting-enzyme inhibitors (ACEI) may be subject to poorer outcomes. This editorial presents the available evidence to guide treatment practices during this pandemic.RECENT FINDINGS: Recent studies from Wuhan cohorts provide valuable information about COVID-19. A cohort with 52 critically ill patients revealed cardiac injury in 12% of patients. Worse outcomes appear to be more prevalent in patients with hypertension and diabetes mellitus (DM), possibly due to overexpression of angiotensin-converting enzyme 2 (ACE2) receptor in airway alveolar epithelial cells. Investigators suspect that SARS-CoV-2 uses the ACE2 receptor to enter the lungs in a mechanism similar to SARS-CoV. Several hypotheses have been proposed to date regarding the net effect of ACEI/ARB on COVID-19 infections. Positive effects include ACE2 receptor blockade, disabling viral entry into the heart and lungs, and an overall decrease in inflammation secondary to ACEI/ARB. Negative effects include a possible retrograde feedback mechanism, by which ACE2 
+receptors are upregulated. Even though physiological models of SARS-CoV infection show a theoretical benefit of ACEI/ARB, these findings cannot be extrapolated to SARS-CoV-2 causing COVID-19. Major cardiology scientific associations, including ACC, HFSA, AHA, and ESC Hypertension Council, have rejected these correlation hypotheses. After an extensive literature review, we conclude that there is no significant evidence to support an association for now, but given the rapid evolvement of this pandemic, findings may change.
+
+
+
+
+
+
+
+
+
+
+
+

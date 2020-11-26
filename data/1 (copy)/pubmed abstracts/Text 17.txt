@@ -1,0 +1,28 @@
+
+OBJECTIVES: A systematic review and meta-analysis was conducted to evaluate the 
+efficacy and safety of Gegen Qinlian decoction (GQD) for normalizing 
+hyperglycemia in T2DM patients by pooling all available RCTs.
+METHODS: All relevant RCTs were searched using the keywords: "GQD", "T2DM", 
+"hyperglycemia" and "insulin" from the electronic databases including PubMed, 
+EMBASE, Cochrane Library, Korean databases, Chinese medical databases, and 
+Indian scientific database. Each RCT included the control (metformin) and 
+experimental (GQD+metformin) groups. The outcome measures were the assessments 
+of changes in the severity of diabetic symptoms such as "markedly effective" and 
+"effective" (fasting plasma glucose levels: <7 and 7-9, respectively; 2h 
+postprandial glucose levels: <8.3 and 8.3-10.5mmol/L, respectively) after 8 
+weeks of treatment in each RCT.
+RESULTS: There were 186 articles selected from the initial searches and 181 
+irrelevant and duplicate articles were removed. Finally, 5 relevant RCTs 
+involving 499 patients were included in this review. The meta-analysis showed 
+the odds ratio of favorable GQD effect on the marked effectiveness of glycemia 
+(n=499, OR: 2.34, 95% CI: 1.63-3.37, P<0. In a subgroup analysis by GQD 
+composition, 4 RCTs with original GQD composition also showed the odds ratio of 
+the original GQD effect on the marked effectiveness of glycemia (n=339, OR: 
+2.58; 95% CI=1.65-4.02, P<0.0001) in comparison to the control group. All five 
+studies used an appropriate method for randomization of the subjects but some of 
+them included allocation concealment and blinding of patients and practitioners. 
+There was no significant publication bias in the meta-analysis.
+CONCLUSION: The GQD and metformin had a synergistic effect on glycemic control 
+in comparison to metformin alone as a T2DM therapy. More rigorous and larger 
+studies are needed to confirm the therapeutic efficacy of GQD for hyperglycemia 
+due to the moderate to high risk of bias in the 5 RCTs.

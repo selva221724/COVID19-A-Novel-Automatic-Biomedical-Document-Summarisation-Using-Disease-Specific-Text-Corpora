@@ -1,0 +1,11 @@
+A number of plants have been described in Ayurveda and other traditional 
+medicine for the management of diabetes. However, information about them is not 
+easily available. Active constituents of any medicinal plant define the efficacy 
+and safety of treatment to control hyperglycemia. We describe the database to 
+maintain the record of medicinal plants having anti-hyperglycemic or 
+anti-diabetic activity. The database contains information such as plant name, 
+its geographical distribution, useful plant part, known dosage, active 
+constituents, mechanism of action and clinical/experimental data. The database 
+also includes information about plant raw material suppliers or manufacturers in 
+India. The current database includes 238 plants species and 123 Indian 
+industries using them.
